@@ -1,0 +1,147 @@
+[
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Plugins\\UE4CMake\\Source\\CMakeLists.in",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\Source.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Plugins\\UE4CMake\\Source\\CMakeTarget.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\Source.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Plugins\\UE4CMake\\Source\\module.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\Source.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Plugins\\UE4CMake\\Source\\module.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\Source.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Plugins\\UE4CMake\\Source\\toolchains\\unix_toolchain.in",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\Source.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Plugins\\UE4CMake\\Source\\toolchains\\windows_toolchain.in",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\Source.38.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\.vscode\\c_cpp_properties.json",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\BasePlane.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\BasePlane.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Config_for_AndroidX_UPL.xml",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\CubePawn.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\CubePawn.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\GameplayHUD.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\GameplayHUD.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Level0PlayerController.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Level0PlayerController.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\MainCamera.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\MainCamera.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Private\\Ads_Initialize.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Private\\MasterGameInstance.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Private\\SaveSystem.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Public\\Ads_Initialize.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Public\\MasterGameInstance.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\Public\\SaveSystem.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\TheOne.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\TheOne.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\TheOne.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\TheOneGameModeBase.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "D:\\myownprojects\\MyFirstMobileGame\\Source\\TheOne\\TheOneGameModeBase.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @D:\\myownprojects\\MyFirstMobileGame\\.vscode\\compileCommands_Default\\TheOne.212.rsp",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]

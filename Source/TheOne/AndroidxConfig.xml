@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gradleProperties>    
+  <insert>      
+    android.useAndroidX=true      
+    android.enableJetifier=true    
+  </insert>  
+</gradleProperties>
+<baseBuildGradleAdditions>
+  <insert>
+   allprojects {
+  def mappings = [
+    'android.support.annotation': 'androidx.annotation',
+    'android.arch.lifecycle': 'androidx.lifecycle',
+    'android.support.v4.app.NotificationCompat': 'androidx.core.app.NotificationCompat',
+    'android.support.v4.app.ActivityCompat': 'androidx.core.app.ActivityCompat',
+    'android.support.v4.content.ContextCompat': 'androidx.core.content.ContextCompat',
+    'android.support.v13.app.FragmentCompat': 'androidx.legacy.app.FragmentCompat',
+    'android.arch.lifecycle.Lifecycle': 'androidx.lifecycle.Lifecycle',
+    'android.arch.lifecycle.LifecycleObserver': 'androidx.lifecycle.LifecycleObserver',
+    'android.arch.lifecycle.OnLifecycleEvent': 'androidx.lifecycle.OnLifecycleEvent',
+    'android.arch.lifecycle.ProcessLifecycleOwner': 'androidx.lifecycle.ProcessLifecycleOwner',
+    'androidx.fragment:fragment:1.0.0' : 'androidx.fragment:fragment:1.3.6' 
+  ]
+
+  beforeEvaluate { project ->
+    project.rootProject.projectDir.traverse(type: groovy.io.FileType.FILES, nameFilter: ~/.*\.java$/) { f ->
+      mappings.each { entry ->
+        if (f.getText('UTF-8').contains(entry.key)) {
+          println "Updating ${entry.key} to ${entry.value} in file ${f}"
+          ant.replace(file: f, token: entry.key, value: entry.value)
+        }
+      }
+    }
+  }
+}
+   dependencies{
+    implementation 'com.google.android.gms:play-services-ads:22.2.0'
+    constraints.implementation 'androidx.fragment:fragment:1.3.6'
+   }
+  </insert>
+</baseBuildGradleAdditions>
+<!-- AndroidxConfig was performed -->
